@@ -24,7 +24,7 @@ This project consists of a system that can classify waste in two categories: rec
 
    ```bash
 
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/MarinelaAdam/wasteclassification.git
 2. Create the virtual environment:
 
    ```python
